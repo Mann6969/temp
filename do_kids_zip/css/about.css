@@ -1,0 +1,110 @@
+/*
+Template Name:Do Kids
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************about****************/
+#about{
+padding-top:40px;
+padding-bottom:40px;
+}
+.about_1m p i{
+ color:#dce086;
+ margin-right:10px;
+ vertical-align:middle; 
+ }
+.about_1r{
+background: #d7f5fa4d;
+padding:40px 20px;
+ }
+.sale_r h1{
+display:inline-block;
+padding:10px 20px; 
+ }
+.sale_r .head_1{
+background: #dce086;
+ }
+.sale_r .head_2{
+background: #d7f5fa;
+ }
+.sale_r p{
+font-size:22px; 
+ }
+.sale_r {
+height:500px;
+background: #32355d;
+padding-left:40px;
+padding-right:40px;
+padding-top:12%;
+ }
+.sale_l img {
+height:500px;
+ }
+ 
+#about_home{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.about_home_2r ul li{
+ margin-top:10px;
+ }
+.about_home_2r ul li i{
+ margin-right:10px;
+ font-size:14px;
+ }
+/*********************about_end****************/
+
+@media screen and (max-width : 767px){
+#about{
+text-align:center; 
+ }
+.about_1l{
+margin-bottom:10px; 
+ }
+.about_1r{
+margin-top:10px; 
+ }
+.about_1r h5{
+text-align:left; 
+ }
+.sale_r h1{
+display:block; 
+ }
+.sale_r{
+padding-left:15px;
+padding-right:15px;
+height:auto;
+padding-bottom:20px; 
+ }
+#about_home{
+text-align:center; 
+ }
+.about_home_2r {
+margin-top:15px; 
+ }
+.center_prod_1 h5 a{
+padding-left:0; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.sale_r{
+padding-left:15px;
+padding-right:15px; 
+ }
+.sale_r p{
+font-size:16px;
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+

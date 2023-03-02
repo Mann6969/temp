@@ -1,0 +1,145 @@
+/*
+Template Name:Do Kids
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************blog****************/
+#blog_page{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.blog_page_1l .span_1{
+background:#f85f89;
+border-radius:5px;
+padding:5px 10px 3px 10px;
+color:#fff;
+margin-right:10px;
+display:inline-block; 
+ }
+.blog_page_1l .span_2{
+margin-right:10px; 
+ }
+.blog_page_1l .span_3{
+margin-right:10px; 
+ }
+.blog_page_1l h5 i{
+margin-right:5px;
+color:#f85f89;
+font-size:14px; 
+ }
+.blog_page_1l{
+margin-top:30px; 
+ }
+.product_1_last{
+margin-top:20px; 
+ }
+.product_1_last ul li{
+ display:inline-block;
+ margin: 0 7px;
+ width:45px;
+ height:45px;
+ line-height:45px;
+ background:#fff0f4;
+ text-align:center;
+ border-radius:50%;
+ }
+.product_1_last ul li a{
+display:block;
+color: #ff6f96;
+ }
+.product_1_last ul li:hover{
+ background: #ff6f96;
+ }
+.product_1_last ul li:hover a{
+ color: #fff;
+ }
+.act{
+  background: #ff6f96!important;
+ }
+.act a{
+ color: #fff!important;
+ }
+
+.blog_page_1r .form-control{
+border:none;
+background: #65c4bc;
+font-size:16px; 
+border-radius: 10px 0px 0px 10px;
+height:50px;
+color:#fff;
+ }
+.blog_page_1r ::placeholder {
+  color: #fff;
+  opacity: 1; 
+}
+.blog_page_1r .btn{
+border-color:#65c4bc;
+background: #65c4bc;
+color: #fff;
+font-weight:bold;
+border-radius: 0px 10px 10px 0px;
+padding:14px 12px;
+ }
+
+.product_1r1 ul li i{
+font-size:8px;
+margin-right:10px; 
+ }
+.product_1r1 ul li {
+margin-bottom:5px; 
+ }
+.product_1r1 .sold_1i {
+margin-top: 15px;
+}
+.prod_home_2m1 h6 a{
+background:#f85f89;
+border-radius:5px;
+padding:5px 10px 5px 10px;
+color:#fff;
+display:inline-block; 
+ }
+.product_1r2 ul li {
+    margin-top: 8px;
+}
+.product_1r2 ul li a i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+/*********************blog_end****************/
+
+@media screen and (max-width : 767px){
+.center_prod_1 h5 a{
+padding-left:0; 
+ }
+#blog_page{
+text-align:center; 
+ }
+.blog_page_1l h5{
+line-height:1.8em; 
+ }
+.product_1_last ul li{
+margin-bottom:5px; 
+ }
+.blog_page_1r {
+ margin-top:15px;
+ }
+.prod_home_2m1 {
+ margin-top:10px; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+

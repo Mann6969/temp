@@ -1,0 +1,163 @@
+/*
+Template Name:Do Kids
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************product****************/
+#product{
+padding-top:40px;
+padding-bottom:40px; 
+ } 
+.product_1li2 .form-control{
+height: 50px;
+border-radius: 10px;
+background: #fafafa;
+font-size: 16px;
+}
+.prod_home_2m1 span{
+display:block;
+margin-top:10px;
+font-size:20px; 
+ }
+.prod_home_2m1 h2{
+margin-top:10px; 
+ }
+.bg h5{
+ background:#dce086;
+ display:inline-block;
+ padding:5px 10px;
+ }
+.bg1 h5{
+ background:#fdbecf;
+ display:inline-block;
+ padding:5px 10px;
+ }
+.bg2 h5{
+ background:#b7eaf2;
+ display:inline-block;
+ padding:5px 10px;
+ }
+.prod_home_2m{
+position:relative;
+ }
+.prod_home_2m2{
+position:absolute;
+width:100%;
+top:15px;
+left:15px;
+ }
+.prod_home_2m3{
+position:absolute;
+width:100%;
+top:70px;
+display:none;
+ }
+.prod_home_2m:hover .prod_home_2m3{
+display:block;
+ }
+.prod_home_2{
+margin-top:30px; 
+ }
+.product_1_last{
+margin-top:20px; 
+ }
+.product_1_last ul li{
+ display:inline-block;
+ margin: 0 7px;
+ width:45px;
+ height:45px;
+ line-height:45px;
+ background:#fff0f4;
+ text-align:center;
+ border-radius:50%;
+ }
+.product_1_last ul li a{
+display:block;
+color: #ff6f96;
+ }
+.product_1_last ul li:hover{
+ background: #ff6f96;
+ }
+.product_1_last ul li:hover a{
+ color: #fff;
+ }
+.act{
+  background: #ff6f96!important;
+ }
+.act a{
+ color: #fff!important;
+ }
+.product_1r1 ul li i{
+font-size:8px;
+margin-right:10px; 
+ }
+.product_1r1 ul li {
+margin-bottom:5px; 
+ }
+.product_1r1 .prod_home_2m1 span{
+ margin-top:2px;
+ }
+.product_1r1 .prod_home_2m1 h2{
+ margin-top:2px;
+ }
+.product_1r1  .sold_1i{
+margin-top:15px; 
+ }
+.product_1r2 ul li {
+    margin-top: 8px;
+}
+.product_1r2 ul li a i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+/*********************product_end****************/
+
+@media screen and (max-width : 767px){
+#product{
+text-align:center; 
+ }
+.product_1li2 {
+margin-top:15px; 
+ }
+.prod_home_2m2{
+text-align:left;  
+ }
+.prod_home_2m {
+margin-top:10px; 
+ }
+.product_1_last ul li{
+margin-bottom:5px; 
+ }
+.product_1r {
+margin-top:15px; 
+ }
+.prod_home_2m1 {
+ margin-top:10px;
+ }
+.center_prod_1 h5 a{
+padding-left:0; 
+ }
+.prod_home_2m3{
+top:30%; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.prod_home_2m1 img{
+ min-height:200px;
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+.prod_home_2m1 img{
+ min-height:200px;
+ }
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+

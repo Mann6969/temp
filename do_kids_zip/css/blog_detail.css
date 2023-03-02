@@ -1,0 +1,216 @@
+/*
+Template Name:Do Kids
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************blog_detail****************/
+#blog_page{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.blog_page_1r .form-control{
+border:none;
+background: #65c4bc;
+font-size:16px; 
+border-radius: 10px 0px 0px 10px;
+height:50px;
+color:#fff;
+ }
+.blog_page_1r ::placeholder {
+  color: #fff;
+  opacity: 1; 
+}
+.blog_page_1r .btn{
+border-color:#65c4bc;
+background: #65c4bc;
+color: #fff;
+font-weight:bold;
+border-radius: 0px 10px 10px 0px;
+padding:14px 12px;
+ }
+
+.product_1r1 ul li i{
+font-size:8px;
+margin-right:10px; 
+ }
+.product_1r1 ul li {
+margin-bottom:5px; 
+ }
+.product_1r1 .sold_1i {
+margin-top: 15px;
+}
+.prod_home_2m1 h6 a{
+background:#f85f89;
+border-radius:5px;
+padding:5px 10px 5px 10px;
+color:#fff;
+display:inline-block; 
+ }
+.product_1r2 ul li {
+    margin-top: 8px;
+}
+.product_1r2 ul li a i {
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+blockquote{
+ border-color:#f85f89;
+ }
+blockquote p{
+ color:#9ad8d3;
+ font-weight:bold;
+ font-size:24px; 
+ }
+.blog_page_12{
+margin-top:15px; 
+ }
+.blog_page_1l .span_1{
+background:#f85f89;
+border-radius:5px;
+padding:5px 10px 3px 10px;
+color:#fff;
+margin-right:10px;
+display:inline-block; 
+ }
+.blog_page_1l .span_2{
+margin-right:10px; 
+ }
+.blog_page_1l .span_3{
+margin-right:10px; 
+ }
+.blog_page_1l h5 i{
+margin-right:5px;
+color:#f85f89;
+font-size:14px; 
+ }
+.blog_page_1l3 img{
+float:left;
+margin-right:15px; 
+ }
+.blog_page_1l3{
+margin-top:30px;
+border-top:1px solid #eee;
+border-bottom:1px solid #eee;
+padding-top:15px;
+padding-bottom:15px; 
+ }
+.blog_page_1l3 h4{
+margin-top:22px; 
+ }
+.blog_page_1l3 ul li a {
+    background-color: #65c4bc;
+}
+
+.blog_detail_3 h4 span {
+    font-size: 18px;
+    color: #f85f89;
+    margin-left: 10px;
+}
+.blog_detail_3 p {
+margin-top:5px;
+}
+.blog_detail_3 h6 {
+margin-top:5px;
+}
+.mgl{
+margin-left:100px;
+border:1px solid #dce086!important;
+ }
+.blog_detail_3 img {
+margin-right:30px;
+}
+.blog_detail_3 .blog_page_1li{
+background: #d7f5fa4d;
+padding:30px 15px;
+margin-top:30px;
+border:1px solid #33996617;
+border-radius:10px;
+ }
+.blog_page_1li img {
+    float: left;
+    margin-right: 20px;
+}
+
+.blog_page_1l4 p span {
+    margin-left: 5px;
+}
+.blog_page_1l4{ 
+ background: #65c4bc;
+ padding:40px;
+ margin-top:30px;
+ border-radius:10px;
+ }
+.blog_page_1l4 .form-control{
+margin-top:20px;
+height:50px;
+background:#7dd1ca;
+border: 1px solid #72cbc4;
+box-shadow:none;
+color:#fff;
+font-size:18px;
+font-weight:normal; 
+ }
+.blog_page_1l4 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+.blog_page_1l4 p{
+margin-top:20px;
+color:#fff;
+}
+.blog_page_1l4 .form_1{
+ height:150px;
+ }
+/*********************blog_detail_end****************/
+
+@media screen and (max-width : 767px){
+.center_prod_1 h5 a{
+padding-left:0; 
+ }
+#blog_page{
+text-align:center; 
+ }
+.blog_page_12i {
+margin-top:10px;
+ }
+.blog_page_1l h5{
+line-height:1.8em; 
+ }
+.blog_page_1l3 {
+text-align:left; 
+ }
+.blog_page_1li {
+text-align:left;  
+ }
+.mgl{
+margin-left:0; 
+ }
+.blog_page_1r {
+ margin-top:15px;
+ }
+.prod_home_2m1 {
+ margin-top:10px; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.blog_page_1l3 p{
+font-size:16px; 
+ }
+.mgl{
+margin-left:80px; 
+ }
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+
